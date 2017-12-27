@@ -6,7 +6,7 @@ Esta applicacion realiza una funcion muy basica que es generar aleatoriamente un
 La opcion `Establecer` esta destinada solamente al Modern Warfare 3, pues establece el ID que generes (o tambien puedes introducir uno propio) dentro del archivo teknogods.ini.
 
 ### Screenshots
-![image](http://192.168.16.101/luisiacc/IDGen/src/master/app.jpg)
+![](http://192.168.16.101/luisiacc/IDGen/src/master/app.jpg)
 
 
 
