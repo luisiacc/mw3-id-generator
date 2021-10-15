@@ -42,14 +42,12 @@ class IDGen(QWidget):
         qApp.quit()
 
     def getlong(self):
-        longitud = self.qchar.value()
-        return longitud
+        return self.qchar.value()
 
     def gennum(self):
         word = ''
         for i in range(self.getlong()):
-            n = choice(self.numbers)
-            word += n
+            word += choice(self.numbers)
         return word
 
     def genlet(self):

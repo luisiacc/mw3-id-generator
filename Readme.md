@@ -9,4 +9,10 @@ La opcion `Establecer` esta destinada solamente al Modern Warfare 3, pues establ
 ![](http://192.168.16.101/luisiacc/IDGen/src/master/app.jpg)
 
 
+JU
+
+
+
+
+
 
